@@ -1,0 +1,6 @@
+flask
+boto3
+flasgger
+flask
+flask-swagger-ui
+python-dotenv
